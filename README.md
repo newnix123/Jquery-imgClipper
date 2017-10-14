@@ -18,7 +18,7 @@
 ``` javascript
 $('#filedata').imgClip({
   z_index:9999,//层级
-  clipProp:{w:4,h:3},//约束选框宽高比例
+  clipProp:{w:4,h:3},//约束选框宽高比例,0为不约束
   canvasSize:{w:500,h:390},//图片外框大小px
   trigger:function(){//input onchange事件之后，裁剪框弹出之前
     return true;//必须返回Boolean，返回false则终止
