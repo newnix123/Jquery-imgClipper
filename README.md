@@ -1,6 +1,6 @@
 # Jquery-imgClipper 图片裁剪工具
 支持iE7+
-## [点击查看demo](http://htmlpreview.github.io/?https://github.com/newnix123/Jquery-imgClipper/blob/master/index.html)
+## [点击查看demo](https://newnix123.github.io/Jquery-imgClipper/)
 # Use
 ## 引入Jquery
 ``` html
