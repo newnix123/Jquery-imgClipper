@@ -1,20 +1,16 @@
 # Jquery-imgClipper 图片裁剪工具
-支持iE7+
-## [点击查看demo](https://newnix123.github.io/Jquery-imgClipper/)
+**[点击查看demo](https://newnix123.github.io/Jquery-imgClipper/)**
 # 使用方法
-## 引入Jquery
+### 引入Jquery 和 Jquery-imgClipper
 ``` html
 <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
-```
-## 引入Jquery-imgClipper
-``` html
 <script src="ImgClipper.js"></script>
 ```
-## html
+### html
 ``` html
 <input type="file" id="filedata"/>
 ```
-## script
+### script
 ``` javascript
 $('#filedata').imgClip({
   z_index:9999,//层级
